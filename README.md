@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yutarowada0402)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yutarowada0402/yutarowada0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
