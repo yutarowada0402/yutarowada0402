@@ -75,15 +75,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🟩 Contributions
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yutarowada0402/yutarowada0402/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yutarowada0402/yutarowada0402/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yutarowada0402/yutarowada0402/output/github-snake.svg" />
-</picture>
+[![Yutaro's Contribution Graph](https://ghchart.rshah.org/40916c/yutarowada0402)](https://github.com/yutarowada0402)
 
 </div>
 
